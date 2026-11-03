@@ -1,0 +1,48 @@
+============================================================
+              STUDENT ENROLLMENT ASSESSMENT
+============================================================
+
+================ STUDENT INFORMATION ================
+Enrollment Status    : Regular
+Student Number       : 2026-0001
+Full Name            : Ana Reyes
+Phone Number         : 09123456789
+ZIP Code             : 0123
+College              : CCS
+Program              : BSCS
+Year Level           : 2
+Term                 : 1
+School Year          : 2026-2027
+Address              : 123 Main St.
+
+================ FIXED COURSE SCHEDULE ================
+CODE       TITLE                                  UNITS  DAY   TIME                    ROOM
+------------------------------------------------------------------------------------------------
+CCS0021    INFORMATION MANAGEMENT (LEC)            2     T     16:00-18:40             ONLINE
+CCS0021L   INFORMATION MANAGEMENT (LAB)            1     F     16:00-18:50             ONLINE
+CSD001     DISCRETE STRUCTURES 1                   3     S/W   15:00-16:50/15:00-16:50 F710/F710
+CSD003     COMPUTER SYSTEMS & ARCHITECTURE         2     F     10:00-12:40             ONLINE
+CSD003L    COMPUTER SYSTEMS & ARCHITECTURE (LAB)   1     TH    10:00-12:50             E619
+CSD070     OBJECT ORIENTED PROGRAMMING             2     F     07:00-09:40             ONLINE
+CSD070L    OBJECT ORIENTED PROGRAMMING-LAB         1     TH    07:00-09:50             E609
+GED0021    SPECIALIZED ENGLISH LANGUAGE 2          3     S/W   11:00-12:50/11:00-12:50 F607/F607
+GED0055    MATHEMATICAL ANALYSIS                   3     S/W   09:00-10:50/09:00-10:50 F712/F712
+GED0081    COLLEGE PHYSICS 1 LECTURE               2     T     10:00-12:40             ONLINE
+GED0081L   COLLEGE PHYSICS LABORATORY              1     M     10:00-12:50             F1003
+TOTAL UNITS: 21
+TOTAL COURSES: 11
+
+================ TUITION ASSESSMENT ================
+Course Fees (11 x PHP 1000)   : PHP 11000.00
+Miscellaneous Fee             : PHP 1200.50
+ID Validation Fee             : PHP 100.00
+Laboratory Fees               : PHP 2000.25
+Other Fees                    : PHP 300.00
+----------------------------------------------------
+TOTAL ASSESSMENT              : PHP 14600.75
+
+================ PAYMENT SCHEDULE ==================
+Down Payment (40%)            : PHP 5840.30
+Midterm (30%)                 : PHP 4380.23
+Final Payment (30%)           : PHP 4380.22
+Payments rounded to centavos; final payment balances the total.
