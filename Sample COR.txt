@@ -3,17 +3,17 @@
 ============================================================
 
 ================ STUDENT INFORMATION ================
-Enrollment Status    : Regular
-Student Number       : 2026-0001
-Full Name            : Ana Reyes
-Phone Number         : 09123456789
-ZIP Code             : 0123
-College              : CCS
-Program              : BSCS
+Enrollment Status    : Enrolled
+Student Number       : 202511107
+Full Name            : Railey Christian Limpin
+Phone Number         : 09055613706
+ZIP Code             : 1807
+College              : FEU
+Program              : BSCSSE
 Year Level           : 2
 Term                 : 1
 School Year          : 2026-2027
-Address              : 123 Main St.
+Address              : 39 F. Torres St.
 
 ================ FIXED COURSE SCHEDULE ================
 CODE       TITLE                                  UNITS  DAY   TIME                    ROOM
